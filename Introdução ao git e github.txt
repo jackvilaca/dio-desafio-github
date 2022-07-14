@@ -1,0 +1,1 @@
+O Readme cria um arquivo que é como uma pagina inicial do nosso repositório
